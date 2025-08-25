@@ -1,0 +1,25 @@
+{
+  "Age_Group_Subscription_Rate": {
+    "18-25": 26.26970227670753,
+    "26-35": 26.41509433962264,
+    "36-45": 26.337448559670783,
+    "46-55": 30.411686586985393,
+    "55+": 25.882352941176475
+  },
+  "Category_Subscription_Rate": {
+    "Accessories": 26.93548387096774,
+    "Clothing": 26.309729418537707,
+    "Footwear": 28.547579298831387,
+    "Outerwear": 28.08641975308642
+  },
+  "Spending_Level_Subscription_Rate": {
+    "Low": 26.923076923076923,
+    "Medium": 27.36625514403292,
+    "High": 27.226720647773277,
+    "Premium": 26.457883369330453
+  },
+  "Best_Model": "RandomForest",
+  "Best_Model_Accuracy": 0.9998244073748903,
+  "Current_Subscription_Rate": 27.0,
+  "Total_Customers": 3900
+}
